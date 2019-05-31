@@ -1,0 +1,33 @@
+article{
+
+    
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+div{
+
+    max-width: 40rem;
+}
+.detalles{
+    list-style: none;
+    font-size: 12px;
+    font-family: sans-serif;
+    color: slategrey;
+}
+
+.remarca{
+    
+    color: black;
+}
+h4{
+    font-family: sans-serif;
+    font-stretch: extra-expanded;
+    font-weight: bolder;
+    
+}
+p{
+    font-family: sans-serif;
+    font-size: 12px;
+    color: black;
+}
